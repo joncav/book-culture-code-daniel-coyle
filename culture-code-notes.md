@@ -1,6 +1,6 @@
 # Title: Culture Code
-## Author: Daniel Coyle
-## Book notes by: Jon Cavanaugh
+### Author: Daniel Coyle
+### Book notes by: Jon Cavanaugh
 
 # Section: Build Safety
 
